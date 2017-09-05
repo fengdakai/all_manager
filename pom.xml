@@ -10,8 +10,6 @@
 
     <modules>
         <module>fk_admin</module>
-        <module>fk_rabbit_mq</module>
-        <module>fk_springmvc</module>
     </modules>
 
 </project>
